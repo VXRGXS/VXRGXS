@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudante na área desde 2019.<br>👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas e cursando Sistemas de Informação.<br>🎯 Metas: Concluir o bacharelado, alcançar fluência em inglês, fazer doutorado e se tornar desenvolvedor sênior.<br>🎲 Hobbies: Games, esportes e música.</p>
+<p align="left">📚 Estudante na área desde 2019.<br>👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas e cursando Sistemas de Informação.<br></p>
 
 ###
 
