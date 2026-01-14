@@ -1,4 +1,4 @@
-<h1 align="left">👋 Oi, sou o João!</h1>
+<h1 align="left">👋 Oi, sou o João Victor!</h1>
 
 ###
 
@@ -14,7 +14,10 @@
 
 ###
 
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGc1eG9vc3I5Z2RjdjE4cGQzMWtrOTgyYm9oM2pvcDN5OWdhYjBqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<br>
+<br>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGc1eG9vc3I5Z2RjdjE4cGQzMWtrOTgyYm9oM2pvcDN5OWdhYjBqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" 
+     style="float: right; height: 200px; margin-left: 15px; margin-bottom: 15px;">
 
 ###
 
@@ -35,6 +38,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+<br>
+<br>
+
+<h2 align="left">Contato</h2>
 
 ###
 
